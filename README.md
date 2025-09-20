@@ -1,4 +1,3 @@
-```markdown
 # Image Caption Generator using ResNet-152 and RNN
 
 This project implements an image captioning model that automatically generates descriptive captions for images. It leverages a deep learning architecture combining a pre-trained Convolutional Neural Network (CNN) as an encoder and a Recurrent Neural Network (RNN) as a decoder.
@@ -158,4 +157,3 @@ generate_captions_for_folder(folder_path, encoder, decoder, vocab)
 - **Use Beam Search:** Instead of greedily picking the most likely next word, beam search explores multiple possible captions at each step and chooses the one with the highest overall probability.
 - **Experiment with Different Encoders:** Try more modern CNN architectures like EfficientNet or Vision Transformers (ViT) as the feature extractor.
 - **Hyperparameter Tuning:** Systematically tune hyperparameters like learning rate, embedding size, and hidden layer dimensions.
-```
