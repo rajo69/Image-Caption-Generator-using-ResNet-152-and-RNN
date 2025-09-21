@@ -2,8 +2,8 @@
 
 This project implements an image captioning model that automatically generates descriptive captions for images. It leverages a deep learning architecture combining a pre-trained Convolutional Neural Network (CNN) as an encoder and a Recurrent Neural Network (RNN) as a decoder.
 
-![Example Image with Generated Caption](https://i.imgur.com/example.png) 
-*(Feel free to replace the above with a real example image from your project)*
+<img width="659" height="461" alt="image" src="https://github.com/user-attachments/assets/7aab6fa5-dfb4-43f4-8207-633888309b74" />
+
 
 ---
 
