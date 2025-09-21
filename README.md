@@ -64,8 +64,8 @@ The model follows a standard Encoder-Decoder framework, which is common for sequ
 The model's performance was evaluated on a held-out test set. The training and validation loss curves show that the model begins to overfit around 20-25 epochs, which was chosen as the optimal training duration.
 
 #### Training & Validation Loss (25 Epochs)
-![Loss Curve](https://i.imgur.com/loss_curve.png)
-*(Replace with your actual loss curve graph)*
+<img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/d6cd1fc2-2b6b-4292-a98f-6349ab9e4c6c" />
+
 
 #### Performance Metrics
 - **Average BLEU-1 Score:** Achieved an average score of approximately **0.6**, indicating a strong unigram overlap between the generated and reference captions.
