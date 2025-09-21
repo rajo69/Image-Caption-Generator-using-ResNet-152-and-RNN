@@ -83,7 +83,7 @@ The model's performance was evaluated on a held-out test set. The training and v
 
 | Image | Generated Caption | Reference Captions |
 | :---: | :--- | :--- |
-| ![Bad Example](https://i.imgur.com/bad_example.png) | `a man is holding a baseball bat` | - a baseball player swinging a bat at a ball <br> - a man in a baseball uniform swinging a bat <br> - a batter prepares to hit the ball at a game |
+| ![Untitled](https://github.com/user-attachments/assets/34940431-1024-4b95-9c8d-8900bd0155c4) | `a man is holding a baseball bat` | - a baseball player swinging a bat at a ball <br> - a man in a baseball uniform swinging a bat <br> - a batter prepares to hit the ball at a game |
 
 *(Replace with your actual result images and captions)*
 
