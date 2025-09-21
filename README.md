@@ -77,7 +77,7 @@ The model's performance was evaluated on a held-out test set. The training and v
 
 | Image | Generated Caption | Reference Captions |
 | :---: | :--- | :--- |
-| ![Good Example](https://i.imgur.com/good_example.png) | `a herd of sheep grazing in a grassy field` | - a herd of sheep are standing in a field <br> - a flock of sheep grazing in a green pasture <br> - a large flock of sheep in a large grassy field |
+| <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/72b58e63-9008-4a59-acc5-bc4f8fcff253" /> | `a herd of sheep grazing in a grassy field` | - a herd of sheep are standing in a field <br> - a flock of sheep grazing in a green pasture <br> - a large flock of sheep in a large grassy field |
 
 **Example 2: Low BLEU Score**
 
